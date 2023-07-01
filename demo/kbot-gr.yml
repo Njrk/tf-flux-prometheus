@@ -7,5 +7,5 @@ metadata:
 spec:
   interval: 1m0s
   ref:
-    branch: test_flux
+    branch: flux
   url: https://github.com/Njrk/kbot
